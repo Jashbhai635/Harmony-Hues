@@ -43,4 +43,4 @@ Tech Stack
 ---
 © 2026 CodeMatrix Studio. All rights reserved.
 
-[![License](https://img.shields.io/badge/license-Proprietary-red)](LICENSE)
+[![License](https://img.shields.io/badge/license-Proprietary-green)](LICENSE)
