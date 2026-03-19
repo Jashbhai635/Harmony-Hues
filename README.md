@@ -25,7 +25,7 @@ Harmony Hues is built with a strong emphasis on artistic integrity and visual ba
  
 “Every Stroke, A Soft Symphony.”
 
-Click here to play! [https://jashbhai634.github.io/Harmony-Hues]
+Click here to play! [https://jashbhai635.github.io/Harmony-Hues/]
 
 This game is best experienced on itch.io
 
